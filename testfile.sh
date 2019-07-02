@@ -1,4 +1,5 @@
 #!bin/bash
 
-echo "test"
-echo "test"
+echo "test1"
+echo "test2"
+echo "test3"
